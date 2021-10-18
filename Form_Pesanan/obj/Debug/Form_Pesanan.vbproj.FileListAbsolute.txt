@@ -1,0 +1,12 @@
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\bin\Debug\Form_Pesanan.exe.config
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\bin\Debug\Form_Pesanan.exe
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\bin\Debug\Form_Pesanan.pdb
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\bin\Debug\Form_Pesanan.xml
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.vbprojAssemblyReference.cache
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.formMain.resources
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.Resources.resources
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.vbproj.GenerateResource.cache
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.vbproj.CoreCompileInputs.cache
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.exe
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.xml
+C:\Users\Oki\source\repos\Form_Pesanan\Form_Pesanan\obj\Debug\Form_Pesanan.pdb
